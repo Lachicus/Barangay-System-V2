@@ -1,5 +1,6 @@
 # Barangay-System-V2
-Modern-Python Version of my Barangay System. Improved Version of [ https://github.com/Lachicus/Barangay-System ]
+Modern-Python Version of my Barangay System. 
+Improved Version of [ https://github.com/Lachicus/Barangay-System ]
 * Integrating Online-Offline Feature
 * Error / Progress Logs
 * Admin Monitoring Page
